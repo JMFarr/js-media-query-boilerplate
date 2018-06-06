@@ -1,6 +1,6 @@
 import React from 'react';
 import { connect } from 'react-redux';
-import {breakpoints} from './utils/responsiveHelpers';
+import { breakpoints } from './utils/responsiveHelpers';
 import setActiveBreakpoint from './store/actions/setActiveBreakpoint';
 import PropTypes from 'prop-types';
 
